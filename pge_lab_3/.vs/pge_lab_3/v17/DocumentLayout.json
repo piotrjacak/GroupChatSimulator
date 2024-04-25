@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|c:\\users\\piotr\\source\\repos\\groupchatsimulator\\pge_lab_3\\pge_lab_3\\messageusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|solutionrelative:pge_lab_3\\messageusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|solutionrelative:pge_lab_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\messageusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|solutionrelative:pge_lab_3\\messageusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\connectform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|solutionrelative:pge_lab_3\\connectform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|solutionrelative:pge_lab_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|solutionrelative:pge_lab_3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\connectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|solutionrelative:pge_lab_3\\connectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|solutionrelative:pge_lab_3\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\messageusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|solutionrelative:pge_lab_3\\messageusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\connectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|solutionrelative:pge_lab_3\\connectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7119F54A-0806-4B44-B5E4-CAF6BB37C333}|pge_lab_3\\pge_lab_3.csproj|solutionrelative:pge_lab_3\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\Form1.cs",
+              "RelativeDocumentMoniker": "pge_lab_3\\Form1.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\Form1.cs",
+              "RelativeToolTip": "pge_lab_3\\Form1.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAmwJQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:04:33.124Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\Form1.cs",
+              "RelativeDocumentMoniker": "pge_lab_3\\Form1.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\pge_lab_3\\pge_lab_3\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\pge_lab_3\\pge_lab_3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:56:23.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "pge_lab_3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\Form1.Designer.cs",
+              "RelativeToolTip": "pge_lab_3\\Form1.Designer.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAowHIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:50:58.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\ConnectForm.Designer.cs",
+              "RelativeDocumentMoniker": "pge_lab_3\\ConnectForm.Designer.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\ConnectForm.Designer.cs",
+              "RelativeToolTip": "pge_lab_3\\ConnectForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:38:49.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageUserControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\MessageUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "pge_lab_3\\MessageUserControl.Designer.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\MessageUserControl.Designer.cs",
+              "RelativeToolTip": "pge_lab_3\\MessageUserControl.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:22:02.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\MessageUserControl.cs",
+              "RelativeDocumentMoniker": "pge_lab_3\\MessageUserControl.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\MessageUserControl.cs",
+              "RelativeToolTip": "pge_lab_3\\MessageUserControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:51:45.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConnectForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\ConnectForm.cs",
+              "RelativeDocumentMoniker": "pge_lab_3\\ConnectForm.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\pge_lab_3\\pge_lab_3\\ConnectForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\pge_lab_3\\pge_lab_3\\ConnectForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:28:40.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectForm.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\ConnectForm.cs",
+              "RelativeDocumentMoniker": "pge_lab_3\\ConnectForm.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\ConnectForm.cs",
+              "RelativeToolTip": "pge_lab_3\\ConnectForm.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwEkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:38:57.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\Message.cs",
+              "RelativeDocumentMoniker": "pge_lab_3\\Message.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\Message.cs",
+              "RelativeToolTip": "pge_lab_3\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:46:33.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessageUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\MessageUserControl.cs",
+              "RelativeDocumentMoniker": "pge_lab_3\\MessageUserControl.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\pge_lab_3\\pge_lab_3\\MessageUserControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\pge_lab_3\\pge_lab_3\\MessageUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:42:18.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Authorization.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\Authorization.cs",
+              "RelativeDocumentMoniker": "pge_lab_3\\Authorization.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\groupChatSimulator\\pge_lab_3\\pge_lab_3\\Authorization.cs",
+              "RelativeToolTip": "pge_lab_3\\Authorization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:46:57.249Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
